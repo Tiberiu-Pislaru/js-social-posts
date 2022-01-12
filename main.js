@@ -13,7 +13,7 @@ const posts=[
         
         image: 'https://images.unsplash.com/photo-1641157141085-8454fbc33f3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDd8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60',
         
-        likes: 0,
+        likes: 30,
     },
     {
       
@@ -26,7 +26,7 @@ const posts=[
         
         image: 'https://images.unsplash.com/photo-1641157141085-8454fbc33f3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDd8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60',
         
-        likes: 0,
+        likes: 322,
     },
     {
 
